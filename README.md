@@ -1,1 +1,1 @@
-#deepseek-vscode-ext
+# deepseek-vscode-ext
